@@ -1,1 +1,6 @@
 .github/**
+build/*
+*.o
+a.out
+membot
+*.json

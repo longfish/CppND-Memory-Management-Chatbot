@@ -37,6 +37,8 @@ chatbot.h
 /mnt/d/Code/CCplusplus/Udacity_cpp/3_memory/CppND-Memory-Management-Chatbot/src/chatbot.h
 chatlogic.h
 /mnt/d/Code/CCplusplus/Udacity_cpp/3_memory/CppND-Memory-Management-Chatbot/src/chatlogic.h
+memory
+-
 string
 -
 wx/colour.h
@@ -47,6 +49,8 @@ wx/image.h
 -
 
 /mnt/d/Code/CCplusplus/Udacity_cpp/3_memory/CppND-Memory-Management-Chatbot/src/chatgui.h
+memory
+-
 wx/wx.h
 -
 
@@ -87,12 +91,6 @@ vector
 -
 string
 -
-
-/mnt/d/Code/CCplusplus/Udacity_cpp/3_memory/CppND-Memory-Management-Chatbot/src/graphnode.cpp
-graphnode.h
-/mnt/d/Code/CCplusplus/Udacity_cpp/3_memory/CppND-Memory-Management-Chatbot/src/graphnode.h
-graphedge.h
-/mnt/d/Code/CCplusplus/Udacity_cpp/3_memory/CppND-Memory-Management-Chatbot/src/graphedge.h
 
 /mnt/d/Code/CCplusplus/Udacity_cpp/3_memory/CppND-Memory-Management-Chatbot/src/graphnode.h
 vector
