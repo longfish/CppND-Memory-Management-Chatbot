@@ -25,9 +25,9 @@ graphnode.h
 /mnt/d/Code/CCplusplus/Udacity_cpp/3_memory/CppND-Memory-Management-Chatbot/src/graphnode.h
 
 /mnt/d/Code/CCplusplus/Udacity_cpp/3_memory/CppND-Memory-Management-Chatbot/src/chatbot.h
-wx/bitmap.h
--
 string
+-
+wx/bitmap.h
 -
 
 /mnt/d/Code/CCplusplus/Udacity_cpp/3_memory/CppND-Memory-Management-Chatbot/src/chatgui.cpp
@@ -86,11 +86,23 @@ string
 chatgui.h
 /mnt/d/Code/CCplusplus/Udacity_cpp/3_memory/CppND-Memory-Management-Chatbot/src/chatgui.h
 
+/mnt/d/Code/CCplusplus/Udacity_cpp/3_memory/CppND-Memory-Management-Chatbot/src/graphedge.cpp
+graphnode.h
+/mnt/d/Code/CCplusplus/Udacity_cpp/3_memory/CppND-Memory-Management-Chatbot/src/graphnode.h
+graphedge.h
+/mnt/d/Code/CCplusplus/Udacity_cpp/3_memory/CppND-Memory-Management-Chatbot/src/graphedge.h
+
 /mnt/d/Code/CCplusplus/Udacity_cpp/3_memory/CppND-Memory-Management-Chatbot/src/graphedge.h
 vector
 -
 string
 -
+
+/mnt/d/Code/CCplusplus/Udacity_cpp/3_memory/CppND-Memory-Management-Chatbot/src/graphnode.cpp
+graphnode.h
+/mnt/d/Code/CCplusplus/Udacity_cpp/3_memory/CppND-Memory-Management-Chatbot/src/graphnode.h
+graphedge.h
+/mnt/d/Code/CCplusplus/Udacity_cpp/3_memory/CppND-Memory-Management-Chatbot/src/graphedge.h
 
 /mnt/d/Code/CCplusplus/Udacity_cpp/3_memory/CppND-Memory-Management-Chatbot/src/graphnode.h
 vector
