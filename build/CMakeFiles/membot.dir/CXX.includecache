@@ -59,12 +59,14 @@ string
 -
 
 /mnt/d/Code/CCplusplus/Udacity_cpp/3_memory/CppND-Memory-Management-Chatbot/src/graphnode.h
-vector
+chatbot.h
+/mnt/d/Code/CCplusplus/Udacity_cpp/3_memory/CppND-Memory-Management-Chatbot/src/chatbot.h
+memory
 -
 string
 -
-chatbot.h
-/mnt/d/Code/CCplusplus/Udacity_cpp/3_memory/CppND-Memory-Management-Chatbot/src/chatbot.h
+vector
+-
 
 /usr/include/wx-3.1-unofficial/wx/accel.h
 wx/defs.h
